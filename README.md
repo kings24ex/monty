@@ -12,7 +12,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 
 
-julien@ubuntu:~/monty$ cat -e bytecodes/000.m
+julien@ubuntu:~/monty$ cat -e bytecodes/000.m.
 
 push 0$
 
